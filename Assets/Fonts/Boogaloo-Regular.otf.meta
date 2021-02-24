@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: acc6f17acb2551943aed4b5c9e770c2b
+timeCreated: 1484971751
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Boogaloo
+  fontNames:
+  - Boogaloo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
